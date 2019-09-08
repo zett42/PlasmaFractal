@@ -66,5 +66,6 @@ This project uses the following open source libraries. Each library comes with i
 - [tinycolor](https://github.com/bgrins/TinyColor)
   - Copyright (c), Brian Grinstead, http://briangrinstead.com
 
+### Special thanks to
 - [stackoverflow](https://stackoverflow.com)
   - So many helpful answers, too many to credit them individually. Kudos to this awesome community!
